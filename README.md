@@ -210,7 +210,6 @@ boyue status / start / stop / restart / log / gps / test / tail
 ## 十二、致谢与参考
 
 - 协议逆向参考开源仓库 `liyangtogithub/ThirdCompanyCanbox`（掌讯 canbox 源码，仅作帧格式/位域佐证，固件版本不同）。
-- 感谢社区车友提供的实车抓包与测试反馈。
 
 ## 许可
 
